@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.gradle/
+build/
+data/
+.env
+*.log
+backend.zip
+.tools/
+
+# Local configuration backups
+application.properties.backup
